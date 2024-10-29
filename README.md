@@ -1,7 +1,7 @@
 <h1 align="center">Hi there👋, I'm Paddy Masum</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-Hi, there. ⚡
+Hi, there! ❤️
 
 I am a passionate Full Stack Developer with over a decade year of experience with professional web & application development, I have honed a comprehensive skill set in both front and back-end technologies, specializing in creating scalable, high-performance web applications. <br/>
 My expertise includes languages like Python, ASP.NET, JS/TS, Rust, C/C++, C# and ROR. 👀 Continuously learning and adapting to emerging technologies to stay ahead in the ever-evolving tech landscape. Always exploring new technologies to push the boundaries of development.
