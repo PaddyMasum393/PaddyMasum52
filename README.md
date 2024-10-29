@@ -1,5 +1,4 @@
-<h1 align="center">Hi there👋, I'm Paddy Masum</h1>
-<h3 align="center">Full Stack Developer</h3>
+
 
 Hi, there! ❤️
 
